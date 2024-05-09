@@ -33,3 +33,5 @@ i. Different types of different websites.
 ii. Usage of top e-wallet application (Paytm, Phonepe, etc.) 
 
 iii. Awareness regarding Government Application and reason for not using government application. 
+
+[ApplicationTastic.pdf](https://github.com/NikhilPaliwal11/Application-Tastic/files/15261934/ApplicationTastic.pdf)

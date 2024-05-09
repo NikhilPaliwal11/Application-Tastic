@@ -14,20 +14,19 @@ iii. Gender v/s Awareness of government application.
 iv. Education Qualification v/s Do you use govt. application.
 
 
-3) To find out the reasons that initiates people to download mobile
+2) To find out the reasons that initiates people to download mobile applications.
+   
 
-applications
+3) To identify and analyze socio demographic factors that effects people decision to use E-wallet application.
+   
 
-5) To identify and analyze socio demographic factors that effects people 
+4) To check if demonetization has an effect on usage of E-wallet application.
+   
 
-decision to use E-wallet application.
+5) To find out the most preferred E-Wallet application.
+   
 
-7) To check if demonetization has an effect on usage of E-wallet   
-application.
-
-9) To find out the most preferred E-Wallet application. 
-
-10) To obtain an overall review on 
+6) To obtain an overall review on 
 
 i. Different types of different websites. 
 
